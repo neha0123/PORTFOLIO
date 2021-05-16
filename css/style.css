@@ -1117,6 +1117,7 @@ footer {
   text-align: center;
   color: #fff;
   padding-bottom: 4rem;
+  font-family: Verdana !important;
 }
 
 footer .copyright {
